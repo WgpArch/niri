@@ -32,3 +32,5 @@
 ⚙️ Installation
 git clone https://codeberg.org/WgpArch/niri.git ~/.config/niri
 ln -sf ~/.config/niri/configs/* ~/.config/
+
+## 📸 Screenshots
