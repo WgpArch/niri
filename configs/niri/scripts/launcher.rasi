@@ -1,0 +1,58 @@
+* {
+    background-color: #121216;
+    text-color: #ffffff;
+    border-color: #2a2a30;
+    separatorcolor: #2a2a30;
+}
+
+window {
+    width: 600px;
+    border: 1px;
+    padding: 20px;
+    background-color: #121216;
+}
+
+mainbox {
+    spacing: 15px;
+    children: [ "inputbar", "listview" ];
+}
+
+inputbar {
+    background-color: #1a1a20;
+    border: 0px;
+    padding: 12px;
+    children: [ "entry" ];
+}
+
+entry {
+    text-color: #ffffff;
+    placeholder: "Search...";
+    placeholder-color: #666666;
+}
+
+listview {
+    lines: 10;
+    columns: 1;
+    background-color: transparent;
+}
+
+element {
+    padding: 10px 14px;
+    margin: 3px 0px;
+    background-color: transparent;
+    text-color: #cccccc;
+}
+
+element selected {
+    background-color: #E0DCC8 ;
+    text-color: #121216;
+}
+
+element-icon {
+    size: 24px;
+    margin: 0px 10px 0px 0px;
+}
+
+element-text {
+    text-color: #ffffff;
+}
