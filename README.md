@@ -34,3 +34,9 @@ git clone https://codeberg.org/WgpArch/niri.git ~/.config/niri
 ln -sf ~/.config/niri/configs/* ~/.config/
 
 ## 📸 Screenshots
+
+![Screenshot 1](screenshot_2026-05-24_19-50-43.png)
+![Screenshot 2](screenshot_2026-05-24_19-51-02.png)
+![Screenshot 3](screenshot_2026-05-24_19-51-10.png)
+![Screenshot 4](screenshot_2026-05-24_19-51-16.png)
+![Screenshot 5](screenshot_2026-05-24_19-51-20.png)
