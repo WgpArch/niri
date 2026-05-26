@@ -1,0 +1,17 @@
+site_name: WgpArch Niri Config
+site_url: https://wgparch.codeberg.page/niri/
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: purple
+  features:
+    - navigation.tabs
+    - navigation.expand
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Keybinds: keybinds.md
+  - Waybar & Scripts: waybar.md
+  - Window Rules & Theming: theming.md
+  - Gallery: gallery.md
